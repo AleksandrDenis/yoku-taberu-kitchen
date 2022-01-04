@@ -120,4 +120,11 @@ a {
 
 }
 
+/* classes */
+.lessons-image {
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+}
+
 
