@@ -87,11 +87,14 @@ a {
 }
 
 /* hero text */
-#hero-text h2 {
+
+
+#hero-text h2 { 
     width: 400px;
     height: 100px;
+    color: #ffff;
     position: absolute;
     top: 200px;
     right: 30px;
-    color: #ffff;
+    
 }
