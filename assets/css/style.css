@@ -125,6 +125,22 @@ a {
     width: 200px;
     height: 200px;
     padding: 15px;
+    vertical-align: top;
+}
+figure {
+    display: inline;
+    margin-left: 30px;
+}
+
+.lessons-text {
+    display: inline-block;
+    width: 35%;
+    height: 60%;
+}
+.lessons-text > p {
+    
+    letter-spacing: 1px;
+
 }
 
 
