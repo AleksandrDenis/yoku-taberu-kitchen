@@ -6,11 +6,13 @@
     border: none;
 }
 body {
+    font-family: "Noto Serif", serif;
     color: #ff0000;
 }
 
 /* headings */
 h1, h2, h3 {
+    font-family: "Noto Sans", sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #ff0000;
