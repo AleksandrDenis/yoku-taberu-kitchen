@@ -31,7 +31,7 @@ br {
     letter-spacing: 4px;
 }
 #menu li {
-    float: right;
+    
     list-style-type: none;
     margin-right: 30px;
 }
@@ -44,3 +44,10 @@ br {
 .active {
     border-bottom: 1px solid #ff0000;
 }
+/*revers direction of menu */
+#menu {
+    display: flex;
+    flex-direction: row;
+    float: right;
+}
+
