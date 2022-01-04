@@ -1,5 +1,5 @@
 
-/* rmove default */
+/* remove default */
 * {
     margin: 0;
     padding: 0;
@@ -22,4 +22,25 @@ br {
     display: block;
     margin-top: -20px;
     content: "";
+}
+
+/* navigation menu */
+#menu {
+    font-size: 110%;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+#menu, a {
+    text-decoration: none;
+}
+#menu a:hover {
+    border-bottom: 1px solid #ff0000;
+}
+.active {
+    border-bottom: 1px solid #ff0000;
 }
