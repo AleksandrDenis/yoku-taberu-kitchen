@@ -1,3 +1,18 @@
 body {
     color: #ff0000;
 }
+/* logo */
+#logo {
+    font-size: 200%;
+    margin-left: 30px;
+    
+}
+/* multi line in logo */
+.multi-line {
+    font-size: 50%;
+}
+br {
+    display: block;
+    margin-top: -20px;
+    content: "";
+}
