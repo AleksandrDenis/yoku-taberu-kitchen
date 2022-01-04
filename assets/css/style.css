@@ -19,6 +19,7 @@ h1, h2, h3 {
 }
 /* logo */
 #logo {
+    float: left;
     font-size: 200%;
     margin-left: 30px;
     
@@ -38,6 +39,7 @@ br {
     font-size: 110%;
     text-transform: uppercase;
     letter-spacing: 4px;
+    padding-top: 20px;
 }
 #menu li {
     
