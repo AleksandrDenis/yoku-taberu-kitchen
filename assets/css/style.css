@@ -59,3 +59,14 @@ br {
     float: right;
 }
 
+/* hero image */
+#hero-image {
+    width: 100%;
+    height: 600px;
+    background-image: url(../images/hero-image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+
