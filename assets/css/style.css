@@ -8,6 +8,13 @@
 body {
     color: #ff0000;
 }
+
+/* headings */
+h1, h2, h3 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #ff0000;
+}
 /* logo */
 #logo {
     font-size: 200%;
