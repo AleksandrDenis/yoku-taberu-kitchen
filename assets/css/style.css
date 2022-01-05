@@ -242,7 +242,7 @@ address {
     #menu {
         clear: left;
         float: left;
-        margin-left: 30px;
+        margin-left: 20px;
         margin-bottom: 10px;
     }
 
@@ -285,6 +285,15 @@ address {
     #about div {
         width: 90%;
     }
+    .multi-line {
+        display: block;
+        padding-top: 1.5em;
+        content: "";
+    }
+    #logo {
+        font-size: 1.5em;
+        margin-left: 20px;
+    }
 
 }
 
@@ -293,6 +302,7 @@ address {
     #menu {
         display: flex;
         flex-direction: column;
+        margin-left: 20px ;
     }
 
     .hero-text {
@@ -300,14 +310,14 @@ address {
         margin-left: 30px;
         left: 0;
     }
-    .multi-line {
+    /*.multi-line {
         display: block;
-        padding-top: 1em;
+        padding-top: 1.5em;
         content: "";
     }
     #logo {
         font-size: 1.5em;
         margin-left: 20px;
-    }
+    }*/
 
 }
