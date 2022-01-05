@@ -19,7 +19,7 @@ h2,
 h3 {
     font-family: "Noto Sans", sans-serif;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 0.3em;
     color: #ff0000;
 }
 
@@ -52,7 +52,7 @@ br {
 #menu {
     font-size: 110%;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 0.3em;
     padding-top: 20px;
 }
 
@@ -87,6 +87,7 @@ a {
     background-repeat: no-repeat;
     overflow: hidden;
 }
+
 #hero-box {
     width: 100%;
     height: 600px;
@@ -95,10 +96,11 @@ a {
 }
 
 /* hero text */
-.hero-text h2{
+.hero-text h2 {
     color: #ffff;
 }
-.hero-text  {
+
+.hero-text {
     width: 400px;
     height: 100px;
     position: absolute;
@@ -120,7 +122,7 @@ a {
 
 .about-text {
     padding: 20px 40px;
-    letter-spacing: 1px;
+    letter-spacing: 0.06em;
 }
 
 /* classes */
@@ -143,7 +145,7 @@ figure {
 }
 
 .lessons-text>p {
-    letter-spacing: 1px;
+    letter-spacing: 0.06em;
 }
 
 /* contact us */
@@ -151,6 +153,7 @@ figure {
     width: 40%;
     margin: auto;
 }
+
 .input-text {
     width: 100%;
     padding: 10px;
@@ -160,6 +163,7 @@ figure {
     border-radius: 2px;
     margin: 5px 0 10px 0;
 }
+
 .input-text:hover {
     border-color: #ff0000;
 }
@@ -173,6 +177,7 @@ textarea {
     border-radius: 2px;
     margin: 5px 0 10px 0;
 }
+
 textarea:hover {
     border-color: #ff0000;
 }
@@ -191,14 +196,17 @@ footer {
     height: 100px;
     text-align: center;
 }
+
 .social-media {
     padding-top: 30px;
 }
+
 footer i {
     font-size: 200%;
     color: #ff0000;
     margin: 2%;
 }
+
 address {
     padding-bottom: 2%;
 }
@@ -206,7 +214,7 @@ address {
 /* confirmation page for form code from www.w3schools.com */
 .confirmation {
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 0.3em;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -216,16 +224,18 @@ address {
 /* media queries */
 
 /* Extra large devices (large laptops and desktops, 1350px and down) */
-@media screen and (max-width: 1350px){
+@media screen and (max-width: 1350px) {
     .classes-box {
         display: block;
     }
+
     .lessons-text {
         display: inline-block;
         width: 60%;
         height: 60%;
     }
 }
+
 /* Large devices (laptops/desktops, 992px and down) */
 @media screen and (max-width: 992px) {
     #menu {
@@ -234,10 +244,12 @@ address {
         margin-left: 30px;
         margin-bottom: 10px;
     }
+
     #contact-form {
         width: 70%;
         margin: auto;
     }
+
     #hero-image {
         width: 100%;
         height: 400px;
@@ -247,14 +259,16 @@ address {
         overflow: hidden;
 
     }
+
     #hero-box {
         width: 100%;
         height: 400px;
         position: relative;
         clear: both;
     }
-    
+
 }
+
 /* Medium devices (tablets, 760px and down) */
 @media screen and (max-width:760px) {
     .classes-box {
@@ -262,28 +276,28 @@ address {
         margin: auto;
         text-align: center;
     }
+
     .lessons-text {
         width: 90%;
     }
+
     #about div {
         width: 90%;
     }
-    
+
 }
+
 /* Small devices (mobile phones, 500px and down) */
 @media screen and (max-width: 500px) {
     #menu {
         display: flex;
         flex-direction: column;
     }
+
     .hero-text {
-       width: 90%;
-      margin-left: 30px;
-      left: 0;
+        width: 90%;
+        margin-left: 30px;
+        left: 0;
     }
-    
+
 }
-
-
-
-
