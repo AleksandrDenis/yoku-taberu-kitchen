@@ -87,6 +87,12 @@ a {
     background-repeat: no-repeat;
     overflow: hidden;
 }
+#hero-box {
+    width: 100%;
+    height: 600px;
+    position: relative;
+    clear: both;
+}
 
 /* hero text */
 #hero-text h2 {
