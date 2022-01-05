@@ -218,6 +218,20 @@ address {
         height: 60%;
     }
 }
+/* Large devices (laptops/desktops, 992px and up) */
+@media screen and (max-width: 992px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 10px;
+    }
+    #contact-form {
+        width: 70%;
+        margin: auto;
+    }
+    
+}
 
 
 
