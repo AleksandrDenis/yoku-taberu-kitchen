@@ -155,6 +155,9 @@ figure {
     border-radius: 2px;
     margin: 5px 0 10px 0;
 }
+.input-text:hover {
+    border-color: #ff0000;
+}
 
 textarea {
     width: 100%;
@@ -163,6 +166,9 @@ textarea {
     border: 1px solid #ffff;
     border-radius: 2px;
     margin: 5px 0 10px 0;
+}
+textarea:hover {
+    border-color: #ff0000;
 }
 
 .send-button {
