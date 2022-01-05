@@ -22,6 +22,7 @@ h3 {
     letter-spacing: 4px;
     color: #ff0000;
 }
+
 .headings {
     text-align: center;
     padding: 30px 0;
@@ -56,7 +57,6 @@ br {
 }
 
 #menu li {
-
     list-style-type: none;
     margin-right: 30px;
 }
@@ -93,32 +93,30 @@ a {
 }
 
 /* hero text */
-
-
-#hero-text h2 { 
+#hero-text h2 {
     width: 400px;
     height: 100px;
     color: #ffff;
     position: absolute;
     top: 200px;
     right: 30px;
-    
+
 }
 
 /* about */
-#about  {
+#about {
     text-align: center;
 
 }
+
 #about div {
     width: 80%;
     display: inline-block;
 }
-.about-text { 
+
+.about-text {
     padding: 20px 40px;
     letter-spacing: 1px;
-
-
 }
 
 /* classes */
@@ -128,6 +126,7 @@ a {
     padding: 15px;
     vertical-align: top;
 }
+
 figure {
     display: inline;
     margin-left: 30px;
@@ -138,10 +137,7 @@ figure {
     width: 35%;
     height: 60%;
 }
-.lessons-text > p {
-    
+
+.lessons-text>p {
     letter-spacing: 1px;
-
 }
-
-
