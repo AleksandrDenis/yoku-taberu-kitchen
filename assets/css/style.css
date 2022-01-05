@@ -232,7 +232,7 @@ address {
     }
     
 }
-/* Mediu devices (tablets, 760px and down) */
+/* Medium devices (tablets, 760px and down) */
 @media screen and (max-width:760px) {
     .classes-box {
         width: 90%;
@@ -244,6 +244,14 @@ address {
     }
     #about div {
         width: 90%;
+    }
+    
+}
+/* Small devices (mobile phones, 500px and down) */
+@media screen and (max-width: 500px) {
+    #menu {
+        display: flex;
+        flex-direction: column;
     }
     
 }
