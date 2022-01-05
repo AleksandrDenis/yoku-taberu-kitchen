@@ -95,10 +95,12 @@ a {
 }
 
 /* hero text */
-#hero-text h2 {
+.hero-text h2{
+    color: #ffff;
+}
+.hero-text  {
     width: 400px;
     height: 100px;
-    color: #ffff;
     position: absolute;
     top: 200px;
     right: 30px;
@@ -273,6 +275,11 @@ address {
     #menu {
         display: flex;
         flex-direction: column;
+    }
+    .hero-text {
+       width: 90%;
+      margin-left: 30px;
+      left: 0;
     }
     
 }
