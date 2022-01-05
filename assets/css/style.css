@@ -141,3 +141,9 @@ figure {
 .lessons-text>p {
     letter-spacing: 1px;
 }
+
+/* contact us */
+#contact-form {
+    width: 40%;
+    margin: auto;
+}
