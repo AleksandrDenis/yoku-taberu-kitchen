@@ -71,10 +71,6 @@ a {
     border-bottom: 1px solid #ff0000;
 }
 
-.active {
-    border-bottom: 1px solid #ff0000;
-}
-
 /*revers direction of menu */
 #menu {
     display: flex;
