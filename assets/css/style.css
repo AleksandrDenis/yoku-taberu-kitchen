@@ -183,3 +183,11 @@ footer {
 .social-media {
     padding-top: 30px;
 }
+footer i {
+    font-size: 200%;
+    color: #ff0000;
+    margin: 2%;
+}
+address {
+    padding-bottom: 2%;
+}
