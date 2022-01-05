@@ -130,7 +130,7 @@ figure {
 
 .lessons-text {
     display: inline-block;
-    width: 35%;
+    width: 30%;
     height: 60%;
 }
 
@@ -204,3 +204,21 @@ address {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+/* media queries */
+
+/* Extra large devices (large laptops and desktops, 1350px and down) */
+@media screen and (max-width: 1350px){
+    .classes-box {
+        display: block;
+    }
+    .lessons-text {
+        display: inline-block;
+        width: 60%;
+        height: 60%;
+    }
+}
+
+
+
+
