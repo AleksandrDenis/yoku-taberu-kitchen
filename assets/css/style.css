@@ -218,7 +218,7 @@ address {
         height: 60%;
     }
 }
-/* Large devices (laptops/desktops, 992px and up) */
+/* Large devices (laptops/desktops, 992px and down) */
 @media screen and (max-width: 992px) {
     #menu {
         clear: left;
@@ -229,6 +229,21 @@ address {
     #contact-form {
         width: 70%;
         margin: auto;
+    }
+    
+}
+/* Mediu devices (tablets, 760px and down) */
+@media screen and (max-width:760px) {
+    .classes-box {
+        width: 90%;
+        margin: auto;
+        text-align: center;
+    }
+    .lessons-text {
+        width: 90%;
+    }
+    #about div {
+        width: 90%;
     }
     
 }
