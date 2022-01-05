@@ -174,3 +174,12 @@ textarea:hover {
     color: #ffff;
     cursor: pointer;
 }
+
+/* footer */
+footer {
+    height: 100px;
+    text-align: center;
+}
+.social-media {
+    padding-top: 30px;
+}
