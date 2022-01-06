@@ -267,6 +267,9 @@ address {
         position: relative;
         clear: both;
     }
+    figure {
+        margin: auto;
+    }
 
 }
 
