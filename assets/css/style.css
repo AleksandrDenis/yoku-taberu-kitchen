@@ -191,6 +191,9 @@ textarea:hover {
     color: #ffff;
     cursor: pointer;
 }
+.contact-link {
+    text-decoration: underline;
+}
 
 /* footer */
 footer {
