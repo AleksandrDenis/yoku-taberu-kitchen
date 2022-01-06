@@ -148,6 +148,7 @@ textarea {
     border: 1px solid #ffff;
     border-radius: 2px;
     margin: 5px 0 10px 0;
+    padding: 10px;
 }
 textarea:hover {
     border-color: #ff0000;
