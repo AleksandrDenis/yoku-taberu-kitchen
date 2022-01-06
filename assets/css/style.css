@@ -6,12 +6,14 @@
     padding: 0;
     border: none;
 }
+
 body {
     font-size: 1em;
     font-family: "Noto Serif", serif;
     color: #ff0000;
     background-color: #000000;
 }
+
 /* headings */
 h1,
 h2,
@@ -21,25 +23,30 @@ h3 {
     letter-spacing: 0.3em;
     color: #ff0000;
 }
+
 .headings {
     text-align: center;
     padding: 30px 0;
 }
+
 /* logo */
 #logo {
     float: left;
     font-size: 200%;
     margin-left: 30px;
 }
+
 /* multi line in logo */
 .multi-line {
     font-size: 50%;
 }
+
 br {
     display: block;
     margin-top: -20px;
     content: "";
 }
+
 /* navigation menu */
 #menu {
     font-size: 110%;
@@ -47,24 +54,29 @@ br {
     letter-spacing: 0.3em;
     padding-top: 20px;
 }
+
 #menu li {
     list-style-type: none;
     margin-right: 30px;
 }
+
 #menu,
 a {
     text-decoration: none;
     color: #ff0000;
 }
+
 #menu a:hover {
     border-bottom: 1px solid #ff0000;
 }
+
 /*revers direction of menu */
 #menu {
     display: flex;
     flex-direction: row;
     float: right;
 }
+
 /* hero image */
 #hero-image {
     width: 100%;
@@ -74,16 +86,19 @@ a {
     background-repeat: no-repeat;
     overflow: hidden;
 }
+
 #hero-box {
     width: 100%;
     height: 600px;
     position: relative;
     clear: both;
 }
+
 /* hero text */
 .hero-text h2 {
     color: #ffff;
 }
+
 .hero-text {
     width: 400px;
     height: 100px;
@@ -91,18 +106,22 @@ a {
     top: 200px;
     right: 30px;
 }
+
 /* about */
 #about {
     text-align: center;
 }
+
 #about div {
     width: 80%;
     display: inline-block;
 }
+
 .about-text {
     padding: 20px 40px;
     letter-spacing: 0.06em;
 }
+
 /* classes */
 .lessons-image {
     width: 200px;
@@ -110,24 +129,29 @@ a {
     padding: 15px;
     vertical-align: top;
 }
+
 figure {
     display: inline;
     margin-left: 30px;
 }
+
 .lessons-text {
     display: inline-block;
     width: 30%;
     height: 60%;
 }
+
 .lessons-text>p {
     letter-spacing: 0.06em;
     padding: 4px;
 }
+
 /* contact us */
 #contact-form {
     width: 40%;
     margin: auto;
 }
+
 .input-text {
     width: 100%;
     padding: 10px;
@@ -137,9 +161,11 @@ figure {
     border-radius: 2px;
     margin: 5px 0 10px 0;
 }
+
 .input-text:hover {
     border-color: #ff0000;
 }
+
 textarea {
     width: 100%;
     height: 200px;
@@ -150,9 +176,11 @@ textarea {
     margin: 5px 0 10px 0;
     padding: 10px;
 }
+
 textarea:hover {
     border-color: #ff0000;
 }
+
 .send-button {
     font-size: 100%;
     padding: 10px 20px;
@@ -161,18 +189,22 @@ textarea:hover {
     color: #ffff;
     cursor: pointer;
 }
+
 .contact-link {
     text-decoration: underline;
 }
+
 /* footer */
 footer {
     height: 100px;
     text-align: center;
 }
+
 .social-media {
     padding: 30px;
-    
+
 }
+
 footer i {
     font-size: 200%;
     color: #ff0000;
@@ -180,16 +212,26 @@ footer i {
 }
 
 /* confirmation page for form code from www.w3schools.com */
+.confirmation-page {
+    background-image: url(../images/confirmation-image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+
 .confirmation-text {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
 .confirmation-text>h2 {
     font-size: 200%;
     color: #ffff;
 }
+
 .confirmation-text>p {
     font-size: 110%;
     text-transform: uppercase;
@@ -203,12 +245,14 @@ footer i {
     .classes-box {
         display: block;
     }
+
     .lessons-text {
         display: inline-block;
         width: 60%;
         height: 60%;
     }
 }
+
 /* Large devices (laptops/desktops, 992px and down) */
 @media screen and (max-width: 992px) {
     #menu {
@@ -217,13 +261,16 @@ footer i {
         margin-left: 20px;
         margin-bottom: 10px;
     }
+
     #about div {
         width: 90%;
     }
+
     #contact-form {
         width: 70%;
         margin: auto;
     }
+
     #hero-image {
         width: 100%;
         height: 400px;
@@ -232,17 +279,20 @@ footer i {
         background-repeat: no-repeat;
         overflow: hidden;
     }
+
     #hero-box {
         width: 100%;
         height: 400px;
         position: relative;
         clear: both;
     }
+
     figure {
         margin: auto;
         padding-left: 20px;
     }
 }
+
 /* Medium devices (tablets, 760px and down) */
 @media screen and (max-width:760px) {
     .classes-box {
@@ -250,31 +300,36 @@ footer i {
         margin: auto;
         text-align: center;
     }
+
     .lessons-text {
         width: 90%;
-    }  
+    }
+
     .multi-line {
         display: block;
         padding-top: 1.5em;
         content: "";
     }
+
     #logo {
         font-size: 1.5em;
         margin-left: 20px;
     }
 
 }
+
 /* Small devices (mobile phones, 500px and down) */
 @media screen and (max-width: 500px) {
     #menu {
         display: flex;
         flex-direction: column;
-        margin-left: 20px ;
+        margin-left: 20px;
     }
+
     .hero-text {
         width: 90%;
         margin-left: 30px;
         left: 0;
-    }    
+    }
 
 }
