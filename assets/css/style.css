@@ -181,14 +181,23 @@ address {
     padding-bottom: 2%;
 }
 /* confirmation page for form code from www.w3schools.com */
-.confirmation {
-    text-transform: uppercase;
-    letter-spacing: 0.3em;
+.confirmation-text {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.confirmation-text>h2 {
+    font-size: 200%;
+    color: #ffff;
+}
+.confirmation-text>p {
+    font-size: 110%;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    color: #ffff;
+}
+
 /* media queries */
 /* Extra large devices (large laptops and desktops, 1350px and down) */
 @media screen and (max-width: 1350px) {
