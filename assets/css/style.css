@@ -170,16 +170,15 @@ footer {
     text-align: center;
 }
 .social-media {
-    padding-top: 30px;
+    padding: 30px;
+    
 }
 footer i {
     font-size: 200%;
     color: #ff0000;
     margin: 2%;
 }
-address {
-    padding-bottom: 2%;
-}
+
 /* confirmation page for form code from www.w3schools.com */
 .confirmation-text {
     position: absolute;
