@@ -101,6 +101,7 @@ The website is structured as one single page divided in to: Landing image, About
 
 * HTML
    * No errors were returned when passing the official [W3C](https://validator.w3.org/) validator.
+   
    ![html validator image](/assets/readme-images/html-checker.JPG)
 * CSS
    * No errors were found when passing through the official [Jigsaw](https://jigsaw.w3.org/css-validator/) validator.
