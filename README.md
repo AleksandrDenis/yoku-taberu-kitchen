@@ -25,7 +25,7 @@ The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.g
 ### Structure
 The website is structured as one single page divided in to: Landing image, About us, Classes and Contact us sections.
 
-![wireframe](/assets/readme-images/wireframe.JPG)
+   ![wireframe](/assets/readme-images/wireframe.JPG)
 
 ### Color, Font and Images
 * Three main high contrast colors were chosen for website black, white and red.
@@ -60,7 +60,12 @@ The website is structured as one single page divided in to: Landing image, About
   
 ![classes image](/assets/readme-images/classes-image.JPG)              
  
-* The Contact Us section             
+* The Contact Us section
+  * This section has a form to collect information from user as allows the user to send a message.
+  * The form collects user first name, last name and email address.
+  * The contact form is valuable to the user it gives them ability to contact company for more information.
+  
+  ![contact us image](/assets/readme-images/contact-image.JPG)
   
 * The Footer
 
