@@ -16,7 +16,6 @@ The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.g
 *  [Design](#design)
 *  [Features](#features)
 *  [Testing](#testing)
-*  [Validator Testing](#validator-testing)
 *  [Deployment](#deployment)
 *  [Languages and Programs](#languages-and-programs)
 *  [Credits](#credits)
