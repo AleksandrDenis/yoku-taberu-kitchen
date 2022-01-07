@@ -1,87 +1,57 @@
-# Yoku Taberu Kitchen
-- - - -
-
-
-http://ami.responsivedesign.is/ 
+# Yoku Taberu Kitchen <a name="top"></a>
+ 
 
 # Index
-*
 
-# User Experience UX
+
+
+
 
 
 # Design
+### Structure
+
+### Color, Font and Images
 
 # Features
-- - - -
-* Navigation
-              * 
-              *
-              *
-  
-![picture alt](" header image") 
-  
-* The Header
-              * 
-              *
-              *
-              
-![picture alt](" hero image")  
+
+
+* Navigation and Header
+
+* The Landing page image
  
  
-* The About section
-              * 
-              *
-              *
-              
-              
-![picture alt](" about image")  
+* The About Us section
+
+* The Classes section             
  
-* The Contact Form
-              * 
-              *
-              *
-              
-![picture alt](" contact image")  
+* The Contact Us section             
   
 * The Footer
-              * 
-              *
-              *
-![picture alt](" footer image")     
-   
-   # Testing
- - - - -
-   
-* 
-*
-*
-              
+
+## Features Left to Implement
+       
+# Testing
+
 ## Bugs 
    
    
 # Validator Testing
-   
-* HTML
-  * https://validator.w3.org/#validate_by_input
-                  
-* CSS
-  * https://jigsaw.w3.org/css-validator/
-               
-* Accessibility
-  * Lighthouse
-              
-![picture alt](" lighthouse image")    
-    
+
 # Deployment
-- - - -
-* GitHub
-* 
-*
-# Credits 
-- - - -
+
+# Languages and programs
+
+# Credits
+## Code
+
+## Content
 
 ## Media
+
+# Acknowledgements
+
+### [Go To Top](#top)
               
     
                         
