@@ -23,16 +23,28 @@ The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.g
 
 # Design
 ### Structure
+The website is structured as one single page divided in to: Landing image, About us, Classes and Contact us sections.
+
+![wireframe](/assets/readme-images/wireframe.JPG)
 
 ### Color, Font and Images
+* Three main high contrast colors were chosen for website black, white and red.
+* Font choices resemble Japanese calligraphy and are implemented throughout the full site.
+* Image chosen to complement the colors of the site.
 
 # Features
-
-
 * Navigation and Header
+  * Logo with company name and tag line that quickly and efficiently sum up what the business is all about: YOKU TABERU KITCHEN learn how to cook Japanese cuisine is located at the top left corner of the page and links to the top of the page.
+  *  The other navigation links are to the right: Home, About, Classes and Contact link to different sections of the same page.
+  *  The navigation clearly tells user the name of the business and website and makes it easy to navigate to deferent sections of the page.
+  
+![header image](/assets/readme-images/header.JPG)
 
 * The Landing page image
- 
+  * The landing text overlay provides the user with more information about what the site is for.
+  * This section grabs the attention of the user with striking image.
+  
+  ![hero image](/assets/readme-images/hero-image.JPG) 
  
 * The About Us section
 
