@@ -20,6 +20,7 @@ The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.g
 *  [Deployment](#deployment)
 *  [Languages and Programs](#languages-and-programs)
 *  [Credits](#credits)
+*  [Acknowledgements](#acknowledgements)
 
 # Design
 ### Structure
@@ -121,15 +122,25 @@ The website is structured as one single page divided in to: Landing image, About
 The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.github.io/yoku-taberu-kitchen/)
 
 # Languages and programs
+* HTML
+* CSS
+* Adobe photoshop
+* Balsamiq Wireframes
 
 # Credits
 ## Code
+* The code to centre text over image was taken from [W3Schools](https://www.w3schools.com/).
+* Help with creating second line in logo was found on [Stack Overflow](https://stackoverflow.com/).
 
 ## Content
+* The icons for social media the footer where taken from [Font Awesome](https://fontawesome.com/)
+* Font used was taken from [Google Fonts](https://fonts.google.com/)
 
 ## Media
+* Images for the websites were taken from [I Stock Photo](https://www.istockphoto.com/).
 
 # Acknowledgements
+Special thank you to Sarah Taylor with helping to write text for the page and my mentor Adegbenga Adeye for his guidance.
 
 ### [Go To Top](#top)
               
