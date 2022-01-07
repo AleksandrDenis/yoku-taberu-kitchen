@@ -44,9 +44,14 @@ The website is structured as one single page divided in to: Landing image, About
   * The landing text overlay provides the user with more information about what the site is for.
   * This section grabs the attention of the user with striking image.
   
-  ![hero image](/assets/readme-images/hero-image.JPG) 
+![hero image](/assets/readme-images/hero-image.JPG) 
  
 * The About Us section
+  * The about us section gives a history of the company and explains its mission to the user.
+  * This section shows the user important information about the business, how it operates and what users can learn.
+  * It also provides a link to contact us section.
+  
+![about image](/assets/readme-images/about-image.JPG)
 
 * The Classes section             
  
