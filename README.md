@@ -75,8 +75,20 @@ The website is structured as one single page divided in to: Landing image, About
    ![footer image](/assets/readme-images/footer-image.JPG)
 
 ## Features Left to Implement
+* Page with easy-to-follow recipes for user.
+* Page with user reviews and comments.
+* Page allowing the user directly to sign up for chosen class and online payment option.
        
 # Testing
+* I tested that this website works with different browser Google Chrome, Firefox, Microsoft Edge and Safari.
+* I tested that website works on Android operating system and IOS devices.
+* I have manually tested all links in header, about us and lesson sections work.
+* I have confirmed that all text is easy to read and understand.
+* I have confirmed that the website is responsive to standard screen sizes.
+* I have manually tested all links in header, about us and lesson sections work.
+* I have confirmed that contact us form works. Requires entries in every field, will only accept an email in the email field and send button works.
+* I have confirmed all social media in footer work and opens in a new tab.
+
 
 ## Bugs 
    
