@@ -53,7 +53,12 @@ The website is structured as one single page divided in to: Landing image, About
   
 ![about image](/assets/readme-images/about-image.JPG)
 
-* The Classes section             
+* The Classes section
+  * This section shows what classes are available.
+  * Section provides the user with clear information about each class, it's duration and how they run.
+  * Featuring images related to each class. As well as providing a link to contact us section.
+  
+![classes image](/assets/readme-images/classes-image.JPG)              
  
 * The Contact Us section             
   
