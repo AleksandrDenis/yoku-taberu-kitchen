@@ -89,11 +89,27 @@ The website is structured as one single page divided in to: Landing image, About
 * I have confirmed that contact us form works. Requires entries in every field, will only accept an email in the email field and send button works.
 * I have confirmed all social media in footer work and opens in a new tab.
 
-
-## Bugs 
-   
+## Bugs
+* No bugs were found.   
    
 # Validator Testing
+* Accessibility
+   * I confirmed that website preforms highly, running through Chrome's lighthouse devtools. Colors and fonts chosen easy to read.
+ 
+![lighthouse validator image](/assets/readme-images/lighthouse-image.JPG)
+
+* HTML
+   * No errors were returned when passing the official [W3C](https://validator.w3.org/) validator.
+   ![html validator image](/assets/readme-images/html-checker.JPG)
+* CSS
+   * No errors were found when passing through the official [Jigsaw](https://jigsaw.w3.org/css-validator/) validator.
+   <p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+   </a>
+</p>
 
 # Deployment
 
