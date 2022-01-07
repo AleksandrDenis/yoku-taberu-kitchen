@@ -68,6 +68,11 @@ The website is structured as one single page divided in to: Landing image, About
   ![contact us image](/assets/readme-images/contact-image.JPG)
   
 * The Footer
+   * The footer includes social media icons for users to visit company on Facebook, Instagram and YouTube.
+   * The footer includes phone number and address of the business.
+   * The footer is valuable for users as it gives them the ability to interact with company over social media, phone and provides location.
+   
+   ![footer image](/assets/readme-images/footer-image.JPG)
 
 ## Features Left to Implement
        
