@@ -14,7 +14,6 @@ The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.g
 
 # Index
 *  [UX](#ux)
-*  [Design](#design)
 *  [Features](#features)
 *  [Testing](#testing)
 *  [Deployment](#deployment)
@@ -23,6 +22,7 @@ The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.g
 *  [Acknowledgements](#acknowledgements)
 
 # UX
+## Research
 * User Needs
    * To know what business is about.
    * Services offered.
@@ -31,16 +31,16 @@ The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.g
    *  Promote business.
    *  Raise conversion rate.
    
-# Design
+## Design
 ### Structure
 The website is structured as one single page divided in to: Landing image, About us, Classes and Contact us sections.
 
    ![wireframe](/assets/readme-images/wireframe.JPG)
 
 ### Color, Font and Images
-* Three main high contrast colors were chosen for website black, white and red.
+* Three main high contrast colors were chosen for website black, white and red. Red is the main to represent passion for cooking.
 * Font choices resemble Japanese calligraphy and are implemented throughout the full site.
-* Image chosen to complement the colors of the site.
+* All image chosen to complement the colors of the site.
 
 # Features
 * Navigation and Header
