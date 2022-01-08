@@ -23,23 +23,27 @@ The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.g
 
 # UX
 ## Research
-* User Needs
-   * To know what business is about.
-   * Services offered.
-   * Contact business.
-* Owners
+* New user goals
+   * As a user i want to know what business is about.
+   * What services offered.
+   * How can i contact business.
+* Returning User goals
+   * I want find new classes.
+   * I want find recepies.
+   
+* Owner gola
    *  Promote business.
    *  Raise conversion rate.
-   
+      
 ## Design
 ### Structure
-The website is structured as one single page divided in to: Landing image, About us, Classes and Contact us sections.
+The website is structured as one single scroll page divided in to: Landing image, About us, Classes and Contact us sections.
 
    ![wireframe](/assets/readme-images/wireframe.JPG)
 
 ### Color, Font and Images
-* Three main high contrast colors were chosen for website black, white and red. Red is the main to represent passion for cooking.
-* Font choices resemble Japanese calligraphy and are implemented throughout the full site.
+* Three main high contrast colors were chosen for website red #ff0000, white #ffff and black #000000.
+* Font i chose is Sawarabi Mincho resemble Japanese calligraphy and are implemented throughout the full site.
 * All image chosen to complement the colors of the site.
 
 # Features
@@ -107,9 +111,8 @@ The website is structured as one single page divided in to: Landing image, About
 * I have manually tested all links in header, about us and lesson sections work.
 * I have confirmed that all text is easy to read and understand.
 * I have confirmed that the website is responsive to standard screen sizes.
-* I have manually tested all links in header, about us and lesson sections work.
 * I have confirmed that contact us form works. Requires entries in every field, will only accept an email in the email field and send button works.
-* I have confirmed all social media in footer work and opens in a new tab.
+* I have confirmed all social media links in footer work and opens in a new tab.
 
 ## Bugs
 * No bugs were found.   
@@ -144,10 +147,14 @@ The website is structured as one single page divided in to: Landing image, About
 The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.github.io/yoku-taberu-kitchen/)
 
 # Languages and programs
-* HTML
+* HTML5
+   * Used for structure.
 * CSS
+   * Used for styling.
 * Adobe photoshop
+   * Used for image editing.
 * Balsamiq Wireframes
+   * Used to create wire frame.
 
 # Credits
 ## Code
