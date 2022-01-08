@@ -25,10 +25,10 @@ The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.g
 ## Research
 * New user goals
    * As a user i want to know what business is about.
-   * What services offered.
-   * How can i contact business.
+   * I want to know about services offered.
+   * I want to know how can i contact business.
 * Returning User goals
-   * I want find new classes.
+   * I want find new classes and sign up.
    * I want find recepies.
    
 * Owner gola
@@ -93,9 +93,7 @@ The website is structured as one single scroll page divided in to: Landing image
    * The footer includes phone number and address of the business.
    * The footer is valuable for users as it gives them the ability to interact with company over social media, phone and provides location.
       
-   ![footer image](/assets/readme-images/footer-image.JPG)
-   
-   
+   ![footer image](/assets/readme-images/footer-image.JPG) 
 
 ## Features Left to Implement
 * Page with easy-to-follow recipes for user.
