@@ -13,6 +13,7 @@ This site is targeted towards users aged 18 and up who want to perfect and learn
 The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.github.io/yoku-taberu-kitchen/)
 
 # Index
+*  [UX](#ux)
 *  [Design](#design)
 *  [Features](#features)
 *  [Testing](#testing)
@@ -21,6 +22,15 @@ The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.g
 *  [Credits](#credits)
 *  [Acknowledgements](#acknowledgements)
 
+# UX
+* User Needs
+   * To know what business is about.
+   * Services offered.
+   * Contact business.
+* Owners
+   *  Promote business.
+   *  Raise conversion rate.
+   
 # Design
 ### Structure
 The website is structured as one single page divided in to: Landing image, About us, Classes and Contact us sections.
@@ -34,9 +44,10 @@ The website is structured as one single page divided in to: Landing image, About
 
 # Features
 * Navigation and Header
-  * Logo with company name and tag line that quickly and efficiently sum up what the business is all about: YOKU TABERU KITCHEN learn how to cook Japanese cuisine is located at the top left corner of the page and links to the top of the page.
-  *  The other navigation links are to the right: Home, About, Classes and Contact link to different sections of the same page.
-  *  The navigation clearly tells user the name of the business and website and makes it easy to navigate to deferent sections of the page.
+  * Logo with company name and tag line that quickly and efficiently sum up what the business is all about. Logo is located at the top left corner of the page and links to the top of the page.
+  *  The other navigation links are to the right: Home, About, Classes and Contact each link directs user to different sections of the same page.
+  *  Navigation links clear and easy navigate for user.
+  
   
 ![header image](/assets/readme-images/header.JPG)
 
@@ -61,23 +72,34 @@ The website is structured as one single page divided in to: Landing image, About
 ![classes image](/assets/readme-images/classes-image.JPG)              
  
 * The Contact Us section
-  * This section has a form to collect information from user as allows the user to send a message.
+  * This section has a form to collect information from user and  allows the user to send a message directly to business owner.
   * The form collects user first name, last name and email address.
   * The contact form is valuable to the user it gives them ability to contact company for more information.
+  * After successfully completing form user redirected to confirmation page.
   
   ![contact us image](/assets/readme-images/contact-image.JPG)
+  
+ * Confirmation page
+      * Lets user know about successfully completing form.
+ 
+  ![confirmation page](/assets/confirmation-page.JPG)
   
 * The Footer
    * The footer includes social media icons for users to visit company on Facebook, Instagram and YouTube.
    * The footer includes phone number and address of the business.
    * The footer is valuable for users as it gives them the ability to interact with company over social media, phone and provides location.
-   
+      
    ![footer image](/assets/readme-images/footer-image.JPG)
+   
+   
 
 ## Features Left to Implement
 * Page with easy-to-follow recipes for user.
 * Page with user reviews and comments.
-* Page allowing the user directly to sign up for chosen class and online payment option.
+* Add more classes  including prices
+* Add blog page and email subscription.
+* Page allowing the user directly to sign up for chosen class.
+* Online payment option.
        
 # Testing
 * I tested that this website works with different browser Google Chrome, Firefox, Microsoft Edge and Safari.
