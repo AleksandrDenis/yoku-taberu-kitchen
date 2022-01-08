@@ -159,7 +159,8 @@ The live link can be found here - [Yoku Taberu Kitchen](https://aleksandrdenis.g
 * Font used was taken from [Google Fonts](https://fonts.google.com/)
 
 ## Media
-* Images for the websites were taken from [I Stock Photo](https://www.istockphoto.com/).
+* Images for the websites were taken from [I Stock Photo](https://www.istockphoto.com/) and [Pexels](https://pexels.com).
+
 
 # Acknowledgements
 Special thank you to Sarah Taylor with helping to write text for the page and my mentor Adegbenga Adeye for his guidance.
